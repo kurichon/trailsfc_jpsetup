@@ -1,8 +1,8 @@
 # trailsfc_jpsetup
-This repository provides the setup for studying Japanese of the PC Version of The Legend of Heroes: Trails in the Sky (FC)
-- Compilation of Sources found online to add voice lines to the game (Japanese) and change in-game text to Japanese
+## This repository provides the setup for studying Japanese of the PC Version of The Legend of Heroes: Trails in the Sky (FC)
+- Contains compilation of sources found online to add voice lines to the game (Japanese) and change in-game text to Japanese
 - Includes Extraction of Dialogue Text in the game for vocabulary/grammar study
-**Does not include combat voices (I am not sure have not tested it in combat yet, I will update once I tried it out)**
+- **Does not include combat voices (I am not sure have not tested it in combat yet, I will update once I tried it out)**
 ## 1. **Install the game**
 
 ## 2. **Download the Voice Pack:**
