@@ -39,7 +39,7 @@
 ![Once successful the following should show up on Textractor2:](https://github.com/kurichon/trailsfc_jpsetup/blob/main/sample_textractor3.png) 
 ![Once successful the following should show up on Textractor3:](https://github.com/kurichon/trailsfc_jpsetup/blob/main/sample_textractor.png)
 
-For any issues regarding Textractor please visit (https://github.com/Artikash/Textractor/releases)
+For any issues regarding Textractor please visit (https://github.com/Artikash/Textractor)
 
 ## 5. **(Optional) Change UI to Japanese**
 - Go to the /dll folder (Sample Directory: C:\Program Files (x86)\Steam\steamapps\common\Trails in the Sky FC\dll)
